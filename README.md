@@ -26,7 +26,7 @@
 
     These all are in a single python file called "project.py". Test of the functions in this file are in "test_project.py", which uses "pytest" as well as "date" functions to test the project. All the pip installed libraries are in "requirements.txt" in the specified format.
 
-    Overall, the making of this project was quite overwhelming at beginning but it turned out to fullfilling at the end. It is certainly one of my great achievements.
+    Overall, the making of this project was quite overwhelming at beginning but it turned out to be satisfying at the end. It is certainly one of my great achievements.
 
 
 
